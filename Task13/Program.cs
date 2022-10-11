@@ -15,4 +15,3 @@ int n = Convert.ToInt32 (Console.ReadLine ());
     {
         Console.WriteLine( "третья цифра в числе " + n + " отсутствует");
     }
-    

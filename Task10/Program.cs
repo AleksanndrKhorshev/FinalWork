@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Введите трехзначное число a");
 int a = Convert.ToInt32 (Console.ReadLine ());
-    if (99 < a && a < 1000)
+    if (99 < a && a < 999)
         {
             int x = a/10;
             int i = x%10;

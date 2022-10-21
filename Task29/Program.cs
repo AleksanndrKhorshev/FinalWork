@@ -4,7 +4,7 @@
     int index = 0;
     while (index < length)
     {
-        collection [index] = new Random().Next(1,1000);
+        collection [index] = new Random().Next(-1000,1000);
         index++;
     }
 
